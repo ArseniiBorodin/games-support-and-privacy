@@ -1,4 +1,4 @@
-# bukvaria-support
+# support
 
 Contact: aborodin3866@gmail.com
 
